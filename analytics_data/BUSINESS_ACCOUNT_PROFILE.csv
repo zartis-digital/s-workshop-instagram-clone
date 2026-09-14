@@ -1,0 +1,29 @@
+ACCOUNT_ID,USERNAME,DISPLAY_NAME,INDUSTRY,REGION,FOLLOWER_COUNT,IS_VERIFIED,CREATED_AT
+1,luma.co.skincare,Luma & Co. Skincare,Beauty,"Bengaluru, India",8400,False,2023-11-02
+2,ferroandvine,Ferro & Vine,Food & Beverage,"Portland, Oregon, USA",15200,False,2022-04-18
+3,kayafitstudio,Kaya Fit Studio,Fitness,"Malmo, Sweden",4300,False,2023-06-10
+4,northfieldtimberco,Northfield Timber Co.,B2B Services,"Calgary, Canada",2100,False,2021-09-05
+5,brambleandco,Bramble & Co.,Handmade Crafts,"Oaxaca, Mexico",6700,False,2022-12-14
+6,voltgear,VoltGear,Electronics Accessories,"Osaka, Japan",22800,True,2021-02-20
+7,whiskerandco,Whisker & Co.,Pet Products,"Nairobi, Kenya",3100,False,2023-08-01
+8,casalumen,Casa Lumen,Home Goods,"Sao Paulo, Brazil",31500,True,2020-05-11
+9,otterbecklegal,Otterbeck Legal Consulting,B2B Services,"Vienna, Austria",1450,False,2022-01-30
+10,sunrisebloomflorals,Sunrise Bloom Florals,Fashion & Lifestyle,"Bucharest, Romania",5200,False,2023-03-22
+11,lumaandstonejewelry,Luma & Stone Jewelry,Handmade Jewelry,"Bengaluru, India",19300,False,2022-07-09
+12,northboundcoffee,Northbound Coffee Roasters,Specialty Coffee,"Malmo, Sweden",9800,False,2021-11-15
+13,sundariyoga,Sundari Yoga & Wellness,Yoga / Wellness Studio,"Austin, Texas, USA",3600,False,2022-10-02
+14,littleacornkidsco,Little Acorn Kids Co.,Children's Products,"Bristol, UK",7400,False,2023-01-19
+15,verdeandvine,Verde & Vine,Eco/Sustainable Goods,"Copenhagen, Denmark",12100,False,2022-05-27
+16,fernwehtravelgear,Fernweh Travel Gear,Travel Accessories,"Mexico City, Mexico",46200,True,2019-08-14
+17,hearthandcrumb,Hearth & Crumb Bakery,Bakery / Food,"Montreal, Canada",4900,False,2023-02-08
+18,brightpixelstudio,Brightpixel Studio,Art & Prints,"Melbourne, Australia",8100,False,2021-12-01
+19,glowandgraingadgets,Glow & Grain Gadgets,Tech Gadgets,"Lagos, Nigeria",27600,True,2020-09-23
+20,moonlitboxco,Moonlit Box Co.,Subscription Boxes,"Barcelona, Spain",33900,True,2021-03-17
+21,hearthandoakfurniture,Hearth & Oak Furniture,Custom Furniture,"Asheville, North Carolina, USA",5600,False,2022-06-19
+22,lumenskincareco,Lumen Skincare Co.,Beauty,"Bengaluru, India",41200,True,2020-02-11
+23,strideforwardfootwear,StrideForward Footwear,Footwear,"Porto, Portugal",24700,True,2019-11-30
+24,tabletoptribegames,TableTop Tribe Games,Board Games & Toys,"Malmo, Sweden",11300,False,2022-08-04
+25,apertureandlight,Aperture & Light Studio,Photography,"Mexico City, Mexico",6200,False,2022-02-27
+26,greenthumbnursery,Green Thumb Nursery,Gardening / Plants,"Manchester, UK",1800,False,2023-07-13
+27,shineworksdetailing,ShineWorks Mobile Detailing,Automotive Services,"Tampa, Florida, USA",9200,False,2022-09-28
+28,wickandwaxcandleco,Wick & Wax Candle Co.,Home Fragrance,"Lyon, France",12000,False,2021-10-06
